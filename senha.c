@@ -2,7 +2,7 @@
 
 int main() {
     int senha;
-    int numero[5];
+    int numero[5] = {0};
 
     do {
         printf("Digite a senha: ");
