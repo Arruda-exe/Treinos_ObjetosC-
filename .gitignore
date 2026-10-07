@@ -1,0 +1,7 @@
+# Executaveis compilados
+exercicios
+senha
+soma_positivos
+*.dSYM/
+.DS_Store
+.vscode/
